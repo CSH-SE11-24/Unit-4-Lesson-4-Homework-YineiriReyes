@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #d1d1ff;
+  font-family: "courtuer new"; monospace;
+}
+.navbar,button{
+  background-color:#6385b0 ;
+  padding: 10px;
+}
+.small-dogs{
+  color: #714aa1;
+}
+#home-dogs-img{
+  width: 60vw;
+}
+.gallery-dogs-img{
+  width: 30vm;
+}
+.centered{
+  text-align: center;
+}
+
+/* Add selectors to make the website look like the following: https://726ccf0a-6b5b-49e1-b58b-2ff592f02da7-00-33tjtum5lnyz8.teams.replit.dev/ */
+/* Hints in the README */
+
